@@ -1,0 +1,17 @@
+D:\Test1Code\Test1Code\bin\Debug\Test1Code.dll
+D:\Test1Code\Test1Code\bin\Debug\Test1Code.pdb
+D:\Test1Code\Test1Code\obj\Debug\Test1Code.csprojResolveAssemblyReference.cache
+D:\Test1Code\Test1Code\obj\Debug\Test1Code.dll
+D:\Test1Code\Test1Code\obj\Debug\Test1Code.pdb
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\bin\Debug\Test1Code.dll
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\bin\Debug\Test1Code.pdb
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\obj\Debug\Test1Code.csprojResolveAssemblyReference.cache
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\obj\Debug\Test1Code.csproj.CoreCompileInputs.cache
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\obj\Debug\Test1Code.dll
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\obj\Debug\Test1Code.pdb
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\bin\Debug\Test1Code.dll
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\bin\Debug\Test1Code.pdb
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\obj\Debug\Test1Code.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\obj\Debug\Test1Code.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\obj\Debug\Test1Code.dll
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test1Code\obj\Debug\Test1Code.pdb

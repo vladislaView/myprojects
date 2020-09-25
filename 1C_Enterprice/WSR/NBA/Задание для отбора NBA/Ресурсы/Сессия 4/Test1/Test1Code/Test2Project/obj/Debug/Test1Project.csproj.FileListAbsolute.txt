@@ -1,0 +1,26 @@
+D:\Test1Code\Test2Project\bin\Debug\Test1Project.dll
+D:\Test1Code\Test2Project\bin\Debug\Test1Project.pdb
+D:\Test1Code\Test2Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Test1Code\Test2Project\bin\Debug\Test1Code.dll
+D:\Test1Code\Test2Project\bin\Debug\Test1Code.pdb
+D:\Test1Code\Test2Project\obj\Debug\Test1Project.csprojResolveAssemblyReference.cache
+D:\Test1Code\Test2Project\obj\Debug\Test1Project.dll
+D:\Test1Code\Test2Project\obj\Debug\Test1Project.pdb
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\bin\Debug\Test1Project.dll
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\bin\Debug\Test1Project.pdb
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\bin\Debug\Test1Code.dll
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\bin\Debug\Test1Code.pdb
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\obj\Debug\Test1Project.csprojResolveAssemblyReference.cache
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\obj\Debug\Test1Project.csproj.CoreCompileInputs.cache
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\obj\Debug\Test1Project.dll
+\\172.30.44.1\Materials\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\obj\Debug\Test1Project.pdb
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\bin\Debug\Test1Project.dll
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\bin\Debug\Test1Project.pdb
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\bin\Debug\Test1Code.dll
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\bin\Debug\Test1Code.pdb
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\obj\Debug\Test1Project.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\obj\Debug\Test1Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\obj\Debug\Test1Project.dll
+C:\Users\Admin\Desktop\Ресурсы\Сессия 4\Test1\Test1Code\Test2Project\obj\Debug\Test1Project.pdb

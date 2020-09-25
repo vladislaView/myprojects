@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<uilog xmlns:d1p1="http://v8.1c.ru/8.3/uilog">
+	<ClientApplicationWindow isMain="true">
+		<CommandInterface>
+			<CommandInterfaceGroup title="Панель функций текущего раздела">
+				<CommandInterfaceButton title="Picture">
+					<click/>
+				</CommandInterfaceButton>
+				<CommandInterfaceButton title="Player">
+					<click/>
+				</CommandInterfaceButton>
+			</CommandInterfaceGroup>
+		</CommandInterface>
+	</ClientApplicationWindow>
+</uilog>

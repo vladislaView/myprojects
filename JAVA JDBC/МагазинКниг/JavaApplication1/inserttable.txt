@@ -1,0 +1,2 @@
+INSERT INTO book(Name, Author, Data, Price) VALUES ('Теория всего', 'Стивен Хокинг','1999.01.01',2000);
+SELECT * FROM mybook.book where idBook
